@@ -22,5 +22,5 @@
   ```
 
 2. SCREENSHOT OUTPUT PROGRAM :
-  - [img]!(https://github.com/raissaputra/praktikum1/blob/main/assets/output.png)
+  - ![img](https://github.com/raissaputra/praktikum1/blob/main/assets/output.png)
   
