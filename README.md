@@ -24,3 +24,14 @@
 2. SCREENSHOT OUTPUT PROGRAM :
   - ![img](https://github.com/raissaputra/praktikum1/blob/main/assets/output.png)
   
+  
+### **Output program file latihan1.py :**
+* ![img](https://github.com/raissaputra/praktikum1/blob/main/assets/output-lat-1.png)
+* Penjelasan program :
+  * ada eror "TypeError: %d format: a number is required, not str"
+  * karena inputan variabel a, b adalah bertipe string
+  * sedangkan permintaan program harus nya variabel yang di inputkan adalah number
+  * tambah kode seperti dibawah ini, agar program tidak terjadi error.
+  * ``` a = int(input("masukan nilai a : "))
+        b = int(input("masukan nilai b : "))
+    ```
