@@ -1,7 +1,7 @@
 # praktikum1
 ### Tugas Pertemuan ke 05, matakuliah Bahasa Pemrograman
 
-1. **Penjelasan :**
+1. **Penjelasan file latihan.py :**
   - Menetapkan nilai pada variabel :
     - ``` nama_lengkap = "Rais Saputra"
           nama_panggilan = "Rais"
@@ -32,6 +32,7 @@
   * karena inputan variabel a, b adalah bertipe string
   * sedangkan permintaan program harus nya variabel yang di inputkan adalah number
   * tambah kode seperti dibawah ini, agar program tidak terjadi error.
-  * ``` a = int(input("masukan nilai a : "))
+  * ``` 
+        a = int(input("masukan nilai a : "))
         b = int(input("masukan nilai b : "))
     ```
