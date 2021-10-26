@@ -36,3 +36,6 @@
         a = int(input("masukan nilai a : "))
         b = int(input("masukan nilai b : "))
     ```
+* Perbaikan program agar bisa berjalan semestinya :
+  * perhatikan code yang diberi garis bawah merah di screenshot di bawah ini :
+  * ![img](https://github.com/raissaputra/praktikum1/blob/main/assets/ss-lat1.png)
